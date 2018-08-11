@@ -1,6 +1,6 @@
-# SQUARE NOSE
+# SQUARE NOSE META
 
-A Sonic demake made by Juice Lizard in 2018 for Arduboy and Gamebuino Meta.
+A Sonic demake made by Juice Lizard in 2018 for Gamebuino Meta (and Arduboy).
 
 IS IT TASTY?
 
