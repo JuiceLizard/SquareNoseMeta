@@ -1,4 +1,4 @@
-SQUARE NOSE the squarrel
+# SQUARE NOSE
 
 A Sonic demake made by Juice Lizard in 2018 for Arduboy and Gamebuino Meta.
 
