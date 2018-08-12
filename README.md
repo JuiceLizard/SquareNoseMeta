@@ -5,10 +5,10 @@ A Sonic demake made by Juice Lizard in 2018 for Gamebuino Meta (and Arduboy).
 IS IT TASTY?
 
 STORY:
-- In a near future, in 1996, two international compagnies fight against each other to reign on the pet dry food market. On the one hand, Old Ram, the leader, promises in the advertising « A longer life for your beloved ones ». On the other hand, True Pasta, the challenger, comes with a fresh « More tasty! More speed! More fun! ».
-- In the True Pasta laboratory, the doctor Meggan drives the tests with some genetically modified animals to see what kind of dry food is the most exciting. At the end, the perfect formula will be used to produce meaty rings that will be eaten by cats and dogs in our sweet homes. And True Pasta will shine over the world as the unique cooking chef for the furry kids. 
-- A new hard working day begins for our little Square Nose, who is placed in the test chamber by the doctor Meggan. She will mesure the time it takes for the squarrel to eat the 32 meaty rings and she will write it in a notebook. If Square Nose loses its time to make friendly contacts with the other animals in the box, it will receive a gentle electric shock, and the test will be considered as a failure. That isn’t cruel, that the scientific procedure!
-- So, what are you waiting for? Let’s go! Eat them all Square Nose!
+- In a near future, in 1996, two international companies fight against each other to reign on the pet dry food market. On one hand, Old Ram, the leader, promises in the advertising « A longer life for your beloved ones ». On the other hand, True Pasta, the challenger, comes up with a fresh « More tasty! More speed! More fun! ».
+- In the True Pasta laboratory, doctor Meggan drives the tests with some genetically modified animals to see what kind of dry food is the most exciting. At the end, the perfect formula will be used to produce meaty rings that will be eaten by cats and dogs in our sweet homes. True Pasta will shine over the world as the unique cooking chef for the furry kids. 
+- A new hard working day begins for our little Square Nose, who is placed in the test chamber by doctor Meggan. She will mesure the time it takes for the squarrel to eat the 32 meaty rings and she will record it in a notebook. If Square Nose loses its time to make friendly contacts with the other animals in the box, it will receive a gentle electric shock, and the test will be considered a failure. That isn’t cruel, this is the scientific procedure!
+- So, what are you waiting for? Let’s go! Eat them all, Square Nose!
 
 CONTROLS:
 - A: start
